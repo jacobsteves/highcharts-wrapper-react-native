@@ -1,5 +1,5 @@
 {
-  "name": "highcharts-wrapper-react-native",
+  "name": "native-highcharts-wrapper",
   "version": "1.0.0",
   "description": "A react-native wrapper module for highcharts.",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/JacobSteves/highcharts-wrapper-react-native"
+    "url": "https://github.com/JacobSteves/native-highcharts-wrapper"
   },
   "keywords": [
     "react-native",
@@ -22,7 +22,7 @@
   "author": "Jacob Steves",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/JacobSteves/highcharts-wrapper-react-native/issues"
+    "url": "https://github.com/JacobSteves/native-highcharts-wrapper/issues"
   },
-  "homepage": "https://github.com/JacobSteves/highcharts-wrapper-react-native#readme"
+  "homepage": "https://github.com/JacobSteves/native-highcharts-wrapper#readme"
 }
