@@ -5,7 +5,7 @@ A react-native wrapper module for highcharts.
 `npm install native-highcharts-wrapper`
 
 ## Demo
-[![https://gyazo.com/093481c6af328fda4e5153319b1bcb08](https://i.gyazo.com/093481c6af328fda4e5153319b1bcb08.gif)](https://gyazo.com/093481c6af328fda4e5153319b1bcb08)
+![](https://i.gyazo.com/093481c6af328fda4e5153319b1bcb08.gif)
 
 ## Example Implementation
 ```javascript
@@ -68,6 +68,10 @@ render() {
   );
 }
 ```
+
+## Example Results
+
+![](http://www.jacobsteves.ca/images/pieChart.gif)
 
 ## Props
 | Prop          | Required      | Description  |
