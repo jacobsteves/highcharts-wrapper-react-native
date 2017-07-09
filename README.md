@@ -1,6 +1,9 @@
 # Highcharts Wrapper
 A react-native wrapper module for highcharts.
 
+## Note
+A modified version of [this module](https://github.com/TradingPal/react-native-highcharts). Native-highcharts-wrapper works better for dynamic data coming from API calls since the previous module/highcharts implementation would not accept data within the configuration that was null.
+
 ## Installation
 `npm install native-highcharts-wrapper`
 
