@@ -1,4 +1,7 @@
 # Highcharts Wrapper
+[![npm](https://img.shields.io/npm/l/express.svg?style=flat-square)]()
+[![react](https://img.shields.io/badge/React-Native-yellow.svg)]()
+
 A react-native wrapper module for highcharts.
 
 ## Note
